@@ -16,7 +16,7 @@ Specific topics of interest include, but are not limited to:
 * Tools and techniques for visual representation or exploration of data for multiple games or matches,
 * Evaluation methodologies and guidelines.
 
-Papers can be up to four pages long, with the length of the submission corresponding to the technique's contribution. All papers will be peer-reviewed by the workshop organizers.
+Papers can be up to eight pages long, with the length of the submission corresponding to the technique's contribution. All papers will be peer-reviewed by the workshop organizers.
 
 Dates
 -----
@@ -32,5 +32,5 @@ Submission
 ----------
 Please email your submissions to workshop-at-sportvis.com.
 
-All submissions should be formatted in the IEEE VIS format style. Suitable templates in LaTeX and Word at ???. Submissions must be made in PDF.
+All submissions should be formatted in the [IEEE VIS format style](http://www.cs.sfu.ca/~vis/Tasks/camera_tvcg.html). Submissions must be made in PDF.
 
