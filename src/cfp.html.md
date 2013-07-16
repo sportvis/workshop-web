@@ -22,11 +22,11 @@ Dates
 -----
 **Deadline for submissions:** September 6, 2013
 
-**Notification of acceptance:** September 20, 2013
+**Notification of acceptance:** September 13, 2013
 
-**Camera ready papers due:**  September 27, 2013
+**Camera ready papers due:**  September 20, 2013
 
-**Workshop:** October 13/(14), 2013
+**Workshop:** October 2013 (date TBD)
 
 Submission
 ----------
