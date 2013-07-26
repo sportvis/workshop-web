@@ -2,13 +2,16 @@
 %html
   %head
     -# CSS, title, meta, and whatnot
-    %title= @title
+    %title= @title || "The 1st IEEE VIS Workshop on Sports Data Visualization"
     %link{rel: "stylesheet", href: "main.css" , type: "text/css" , media: "screen" , title: "no title" , charset: "utf-8"}
   %body{class: @which}
     #header
       %h1 What's the score? 
       %h2 The 1st Workshop on Sports Data Visualization
-      %h2 IEEE VIS 2013 | Atlanta, Georgia | October 2013
+      %h2
+        %a{ href: 'http://ieeevis.org'} IEEE VIS 2013
+        | Atlanta, Georgia
+        | October 13-18, 2013 (exact date TBD)
       %ul.menu
         %li 
           %a{ href: 'index.html' } Home
@@ -17,3 +20,4 @@
         %li 
           %a{ href: 'agenda.html' } Agenda
     #container= yield
+    =@ga

@@ -1,4 +1,4 @@
-All registered attendees of VisWeek are encouraged to attend the workshop. In order to present a paper, it is necessary to have your paper accepted.
+All registered attendees of [IEEE VIS](http://ieeevis.org) are encouraged to attend the workshop. In order to present a paper, it is necessary to have your paper accepted.
 
 Papers
 ------
