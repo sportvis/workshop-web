@@ -30,7 +30,7 @@ Specific topics of interest include, but are not limited to:
 * Tools and techniques for visual representation or exploration of data for multiple games or matches,
 * Evaluation methodologies and guidelines.
 
-Papers can be up to eight pages long, with the length of the submission corresponding to the technique's contribution. All papers will be peer-reviewed by the workshop organizers.
+Submissions for papers can be up to eight pages long, with the length of the submission corresponding to the technique's contribution. Submissions for posters and demonstrations can be up to two pages long. All submissions will be peer-reviewed by the workshop organizers.
 
 Dates
 -----
