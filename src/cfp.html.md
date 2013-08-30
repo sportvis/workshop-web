@@ -28,7 +28,7 @@ Dates
 
 **Camera ready papers due:**  September 20, 2013
 
-**Workshop:** October 2013 (date TBD)
+**Workshop:** October 14, 2013
 
 Submission
 ----------

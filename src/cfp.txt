@@ -1,7 +1,9 @@
 What's the score?: The 1st Workshop on Sports Data Visualization
 IEEE VIS 2013
 Atlanta, Georgia
-October 2013
+October 14, 2013
+
+http://workshop.sportvis.com
 
 Overview
 --------
@@ -40,7 +42,7 @@ Dates
 
 * Camera ready papers due: September 20, 2013
 
-* Workshop October 2013 (date TBD)
+* Workshop October 14, 2013
 
 Submission
 ----------
