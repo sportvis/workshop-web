@@ -1,0 +1,60 @@
+What's the score?: The 1st Workshop on Sports Data Visualization
+IEEE VIS 2013
+Atlanta, Georgia
+October 14, 2013
+
+http://workshop.sportvis.com
+
+Overview
+--------
+Few areas involve, generate, and celebrate data in the manner that sports does. Almost any sport, be it individual or team, produces large amounts of data as the result of matches, data that lend themselves to statistical analysis.
+
+This area of sports analytics continues to gain popularity and is perhaps most connected to the sport of baseball, largely through the work of people like Bill James and books and films such as Moneyball. More recently, other sports, including basketball, soccer, professional football, ice hockey, and golf have begun to be the focus of analytics research.
+  
+Surprisingly, there have been few applications of visualization presentation and exploration tools to sports data. General purpose displays, interaction techniques, and tools like Tableau are often used to present simple views of sports data, but complex structure and relationships in the data frequently necessitate approaches that leverage domain knowledge. Some sports-specific visualizations exist (for example, the commonly used basketball shot chart), but they have largely remained stagnant. Special-purpose tools that allow people to explore and analyze sports data interactively could not only enhance the enjoyment of fans, but also assist media coverage and team officials' decision making.
+
+This workshop will serve as the first meeting of researchers and practitioners interested in presenting sports data through visualization. It will provide an opportunity for those engaged in this topic to interact and share their experiences.  Hopefully, it will spur growth in a new sub-area of data visualization for the future.
+All registered attendees of VisWeek are encouraged to attend the workshop. In order to present a paper, it is necessary to have your paper accepted.
+
+Papers
+------
+We are soliciting papers and presentations covering topics across the visualization spectrum, including visualization design, presentation and storytelling techniques and tools, and more traditional infovis tools for exploration. Work should focus on topics specific to the use of visualization on sports data, rather than general tools or techniques with only a tangential connection to sports data.
+
+Specific topics of interest include, but are not limited to:
+
+* Design ideas and representations for sports data visualizations,
+* Visual methods for storytelling with sports data,
+* Exploration and discovery within sports data,
+* Data and visual analytics techniques for sports data,
+* Visualization designs for specific sports domains,
+* Visualization designs for specific target audiences (e.g. officials, team managers, or the general public),
+* Tools and techniques for visual representation or exploration of data for a single game,
+* Tools and techniques for visual representation or exploration of data for multiple games or matches,
+* Evaluation methodologies and guidelines.
+
+Submissions for papers can be up to eight pages long, with the length of the submission corresponding to the technique's contribution. Submissions for posters and demonstrations can be up to two pages long. All submissions will be peer-reviewed by the workshop organizers.
+
+Dates
+-----
+* Deadline for submissions: September 6, 2013
+
+* Notification of acceptance: September 13, 2013
+
+* Camera ready papers due: September 20, 2013
+
+* Workshop October 14, 2013
+
+Submission
+----------
+Please email your submissions to workshop@sportvis.com.
+
+All submissions should be formatted in the IEEE VIS format style (http://www.cs.sfu.ca/~vis/Tasks/camera_tvcg.html). Submissions must be made in PDF.
+
+Organizers
+----------
+Rahul Basole, Georgia Institute of Technology
+Edward Clarkson, Georgia Tech Research Institute
+Andy Cox, The Weather Company and Crashing the Dance
+Christopher Healey, North Carolina State University
+John Stasko, Georgia Institute of Technology
+Chad Stolper, Georgia Institute of Technology

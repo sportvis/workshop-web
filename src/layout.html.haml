@@ -1,0 +1,26 @@
+!!! 5
+%html
+  %head
+    -# CSS, title, meta, and whatnot
+    %title= @title || "The 1st IEEE VIS Workshop on Sports Data Visualization"
+    %link{rel: "stylesheet", href: "main.css" , type: "text/css" , media: "screen" , title: "no title" , charset: "utf-8"}
+  %body{class: @which}
+    #header
+      %h1 What's the score? 
+      %h2 The 1st Workshop on Sports Data Visualization
+      %h2
+        %a{ href: 'http://ieeevis.org'} IEEE VIS 2013
+        | Atlanta, Georgia
+        | October 14, 2013
+      %ul.menu
+        %li 
+          %a{ href: 'index.html' } Home
+        %li 
+          %a{ href: 'cfp.html' } Call for Participation
+        %li 
+          %a{ href: 'agenda.html' } Agenda
+        %li
+          %a{href: "https://twitter.com/sportvis13", class: "twitter-follow-button", data: { show_count: "false"}} Follow @sportvis13
+    #container= yield
+    =@ga
+    =@twitter
