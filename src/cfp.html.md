@@ -26,7 +26,7 @@ Dates
 
 **Notification of acceptance:** September 13, 2013
 
-**Camera ready papers due:**  September 20, 2013
+**Camera ready papers due:**  September 27, 2013
 
 **Workshop:** October 14, 2013
 
