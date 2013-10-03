@@ -48,7 +48,7 @@ body {
 	}
 }
 
-#container {
+.container {
 	margin: 2em auto 4em auto;
 	width: 800px;
 	
@@ -73,3 +73,40 @@ body {
 	}
 }
 
+.schedule {
+  float: left;
+  width: 100%;
+  padding: 10px;
+
+  .time {
+    margin-top: 2px;
+    width: 150px;
+  }
+
+  .events {
+    width: 650px;
+    float: right;
+
+    p {
+      font-size: 0.9em;
+    }
+
+    h2 {
+      margin: 0;
+      font-size: 1em;
+      font-weight: bold;
+      margin-bottom: 5px;
+    }
+
+    .paper-title {
+      margin-bottom: 2px;
+    }
+
+    .paper-author {
+      font-style: italic;
+      margin-top: 2px;
+      margin-bottom: 10px;
+      font-size: 0.95em;
+    }
+  }
+}
