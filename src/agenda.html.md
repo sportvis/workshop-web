@@ -2,6 +2,7 @@ The sports data visualization workshop will be held on the afternoon of October 
 
 The workshop will run for a half day and include some combination of featured speakers, [paper presentations](cfp.html), poster sessions and panel discussions.
 
+
 <div class='schedule'>
 	<div class='events'>
 		<h2>Introduction</h2>
